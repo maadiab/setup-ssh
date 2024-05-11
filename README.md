@@ -1,6 +1,7 @@
 # setup-ssh
 setting up ssh on github
 
+<hr>
 $ cd ~/.ssh
 <hr>
 $ ssh-keygen -o -t rsa -C "mohanad.dev@gmail.com"
